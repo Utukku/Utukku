@@ -13,6 +13,6 @@ BA: HSE FES — economics
 
 **Other**: Macroeconomics, probabilities and math statistics, applied linear algebra, differential equations and dynamic systems, optimisation
 
-## Professional interests:
+## Professional interests
 
 Data analysis, applied probabilities and statistics
