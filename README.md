@@ -5,7 +5,7 @@
 
 Moscow, Russia
 
-BA: HSE FES, economics
+BA: HSE FES — economics
 
 ## Research interests
 
