@@ -2,7 +2,9 @@
 ## Bio
 
 20 yo
+
 Moscow, Russia
+
 BA: HSE FES, economics
 
 ## Research interests
