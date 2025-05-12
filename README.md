@@ -11,7 +11,7 @@ BA: HSE FES — economics
 
 **Primary:** Strategic interaction of fiscal and monetary policies, fundamental microeconomics, game theory applications to economics
 
-**Other**: Macroeconomics, probabilities and math statistics, applied linear algebra, differential equations and dynamic systems
+**Other**: Macroeconomics, probabilities and math statistics, applied linear algebra, differential equations and dynamic systems, optimisation
 
 ## Professional interests:
 
