@@ -1,4 +1,4 @@
-# Vasiliy "Jowday" Bloshenko
+# Vasiliy *"Jowday"* Bloshenko
 ## Bio
 
 20 yo
